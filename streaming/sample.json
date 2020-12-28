@@ -1,0 +1,156 @@
+({
+  "blue": [
+    {
+      "summonerName": "King Punisher",
+      "championId": 50,
+      "teamId": 100,
+      "gameId": 2684142591,
+      "accountId": "uCbNBq8T1ixq5dRZmwsfzH5vbhsQcHFbsGprEkPddcs4QEupKPkKIj00",
+      "summonerId": "6S69YY3HebRtjQDLCTOYeW9Asd29ZFq_T0hWkBw8M8uTLvA",
+      "stats": {
+        "championLevel": 5,
+        "championPoints": 43766,
+        "champ_familiarity": 70877.863
+      },
+      "score": 1.1009370526789446
+    },
+    {
+      "summonerName": "Seyroχ",
+      "championId": 121,
+      "teamId": 100,
+      "gameId": 2684142591,
+      "accountId": "XDw2p8H3f4hisIyRU1rFBI38HvvtxqqP6Fin4DoXQzbhT4k",
+      "summonerId": "tcGhW3h_VVA7Jlgcf_tvSNpeTQvkhkzcvlub6I49nDiG4Fo",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 107366,
+        "champ_familiarity": 70878.428
+      },
+      "score": 1.2114107330419042
+    },
+    {
+      "summonerName": "2OF US ARE DYING",
+      "championId": 114,
+      "teamId": 100,
+      "gameId": 2684142591,
+      "accountId": "eMJFdTar-8O1VoTcsgu7TAwgij4uk8Ozc4FS54UaRjJRas0",
+      "summonerId": "rO0ZB6lUILWQSpfmEt9OGLSd4JSuuMRwPpmMvX-S_1SKdV4",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 264469,
+        "champ_familiarity": 5627.971
+      },
+      "score": 1.6711692828406512
+    },
+    {
+      "summonerName": "Nut In Head",
+      "championId": 39,
+      "teamId": 100,
+      "gameId": 2684142591,
+      "accountId": "fMzwPTxyXzl5GBj5AWSjh96AXCHfGozuh2YLDGr0t86FqkE",
+      "summonerId": "u6J60gUIwqOa_Hkvo845-Jjz9OZEuatkeMIxPJ1TAYFbmuk",
+      "stats": {
+        "championLevel": 6,
+        "championPoints": 42646,
+        "champ_familiarity": 70879.554
+      },
+      "score": 1.114937875653344
+    },
+    {
+      "summonerName": "Zumei666",
+      "championId": 40,
+      "teamId": 100,
+      "gameId": 2684142591,
+      "accountId": "yGWumKdqgBkNpnkAKw4XOMHuaghqvzCfloxJt200w7N6LrU",
+      "summonerId": "4f23PBtCEY-nF3iDYooPLqGXTEw3MWw7WkoJK51XcLVBODg",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 207888,
+        "champ_familiarity": 565.151
+      },
+      "score": 2.239301996750259
+    }
+  ],
+  "red": [
+    {
+      "summonerName": "Elise Presley",
+      "championId": 60,
+      "teamId": 200,
+      "gameId": 2684142591,
+      "accountId": "VWhT17JXO0XPWgpJwQIP5GP1YccW_wBwA6vkUDer2OsgSA",
+      "summonerId": "qk_Toj4cRBfxGgnDDjSvLSCUYFOfHHSLt3O6ZpmDcKkLsSg",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 1839064,
+        "champ_familiarity": 30727.711
+      },
+      "score": 1.5843224560277052
+    },
+    {
+      "summonerName": "RiverSanzu1",
+      "championId": 145,
+      "teamId": 200,
+      "gameId": 2684142591,
+      "accountId": "RWH-BwmNadjrmYTwp451HmNSCXrR-hBA8Sl7o9UflfNnOwWgZEIOk6g0",
+      "summonerId": "Ftoo3uRta1usZG8uExqA58t6zOetv4EM3uqf0MJ_ccCZeIg",
+      "stats": {
+        "championLevel": 5,
+        "championPoints": 86276,
+        "champ_familiarity": 22772.323
+      },
+      "score": 1.2931680636405283
+    },
+    {
+      "summonerName": "Thę Legend",
+      "championId": 91,
+      "teamId": 200,
+      "gameId": 2684142591,
+      "accountId": "zdorO5kp6vt9gb8Tk3yQmb2SxHT5mn-FH4AceDZwY6ojRaI",
+      "summonerId": "vA95sCz_xke4EAMkCNywfv3ssaNn3a1HwrCRor1SY65Hpx0",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 1072256,
+        "champ_familiarity": 1281.849
+      },
+      "score": 2.2122771609612144
+    },
+    {
+      "summonerName": "Nórm",
+      "championId": 98,
+      "teamId": 200,
+      "gameId": 2684142591,
+      "accountId": "d0adyVFTYiAU1zzAHfADS8JAwo7Du6vooS8Liff02YK7zU0",
+      "summonerId": "zHUvrBFWd9OqTbnR2LTqp_WwE5BOQKvXTwd8bJxTO3LgH94",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 1724630,
+        "champ_familiarity": 70882.487
+      },
+      "score": 1.4600014666263448
+    },
+    {
+      "summonerName": "Scaryride",
+      "championId": 412,
+      "teamId": 200,
+      "gameId": 2684142591,
+      "accountId": "rdbMKkShDvSkuC_JmfIhV1RolGv9JRR1x2xB620Yq-1NBCw",
+      "summonerId": "h0YdW20SZzse-ZZKpYTTQjKXgZeQSlyisz__hDfgo5SNJ_Q",
+      "stats": {
+        "championLevel": 7,
+        "championPoints": 1068293,
+        "champ_familiarity": 14166.08
+      },
+      "score": 1.6558359375881897
+    }
+  ]
+},
+{
+  "blueTotalScore": 7.535687525166231,
+  "blueThreatName": "Zumei666",
+  "blueThreatScore": 0.834002937252557,
+  "redTotalScore": 8.270916521304818,
+  "redThreatName": "Thę Legend",
+  "redThreatScore": 0.48336327824546377,
+  "redWinProbability": 52.32570194703755,
+  "blueWinProbability": 47.67429805296245
+}
