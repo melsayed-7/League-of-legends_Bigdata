@@ -53,4 +53,5 @@ And same with classes here is another one with **"Faerie Charm"** Showing it wor
 
 
 ## Item suggestion
-
+Now we come for Item suggestion. The main method followed here is that the higher the correlation between winning and obtaining the item the higher chance this item will be suggested for the player. We developed a function that takes any championId and gives back the most 6 winning item for that champion. Here are the results for **"Lulu"**
+![image](./Figures/lulu.png)
